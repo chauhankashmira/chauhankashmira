@@ -11,7 +11,7 @@ Self-motivated, adaptive, and hard working Software Development Engineer in Test
 
 ---
 
-## Top Skills & Technologies
+## 🌟 Top Skills & Technologies 🌟
 
 - **Programming:** JavaScript | TypeScript | Python | C# | DataWeave
 - **Automation:** Playwright | Selenium | Cypress | MuleSoft
