@@ -1,17 +1,17 @@
 
-# 👋 Hi, I'm Kash Chauhan!
+#  Hi, 🌟 I'm Kash Chauhan 🌟
 
 **SDET | Automation Enthusiast | Lifelong Learner**
 
 ---
 
-## About Me
+## 🌟 About Me 🌟
 
 Self-motivated, adaptive, and hard working Software Development Engineer in Test (SDET) passionate about building robust, scalable, and reliable automated testing solutions. I thrive on tackling complex problems and delivering impactful results, always eager to learn new technologies and push boundaries.
 
 ---
 
-## 🚀 Top Skills & Technologies
+## Top Skills & Technologies
 
 - **Programming:** JavaScript | TypeScript | Python | C# | DataWeave
 - **Automation:** Playwright | Selenium | Cypress | MuleSoft
@@ -25,7 +25,7 @@ Self-motivated, adaptive, and hard working Software Development Engineer in Test
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects 🌟
 
 - [**E-Commerce Website End-to-End Testing with Playwright & TypeScript**](https://github.com/chauhankashmira/E-Commerce-Website-End-to-End-Testing-Playwright-TypeScript)
   - Comprehensive automation suite for a modern e-commerce application.
@@ -39,16 +39,11 @@ Explore more projects in my [GitHub repositories](https://github.com/chauhankash
 
 ---
 
-## 📫 Connect With Me
+## 🌟 Connect With Me 🌟
 
 - [LinkedIn](https://www.linkedin.com/in/kashmira-chauhan/)
 
 ---
 
-## 📈 GitHub Stats
 
-![Kashmira Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chauhankashmira&show_icons=true&theme=radical)
-
----
-
-> “Continuous learning is my superpower 🦸‍♀️”
+> 🌟 “Continuous learning is my superpower” 🌟
