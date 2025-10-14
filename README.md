@@ -13,9 +13,9 @@ Self-motivated, adaptive, and hard working Software Development Engineer in Test
 
 ## 🌟 Top Skills & Technologies 🌟
 
-- **Programming:** JavaScript | TypeScript | Python | C# | DataWeave
-- **Automation:** Playwright | Selenium | Cypress | MuleSoft
-- **Test Frameworks:** Playwright-MCP | Node.js | Cucumber | Gherkins | Jasmine | Anypoint Platform | Pytest
+- **Programming:** JavaScript | TypeScript | Python 
+- **Automation:** Playwright | Selenium | Cypress 
+- **Test Frameworks:** Playwright-MCP | Node.js | Cucumber | Gherkins | Pytest
 - **Version Control:** Kubernetes | Git | GitHub | BitBucket
 - **CI/CD:** Jenkins | GitHub Actions | GitLab CI 
 - **Test Management:** Jira | TestRail | Xray
@@ -41,9 +41,3 @@ Explore more projects in my [GitHub repositories](https://github.com/chauhankash
 
 ## 🌟 Connect With Me 🌟
 
-- [LinkedIn](https://www.linkedin.com/in/kashmira-chauhan/)
-
----
-
-
-> 🌟 “Continuous learning is my superpower” 🌟
