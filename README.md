@@ -1,5 +1,5 @@
 
-#  Hi, I'm Kash Chauhan 🌟
+#  Hi, I'm Kash Chauhan
 
 **SDET | Automation Enthusiast | Lifelong Learner**
 
@@ -38,6 +38,3 @@ Self-motivated, adaptive, and hard working Software Development Engineer in Test
 Explore more projects in my [GitHub repositories](https://github.com/chauhankashmira?tab=repositories).
 
 ---
-
-## 🌟 Connect With Me 🌟
-
