@@ -7,7 +7,7 @@
 
 ## About Me
 
-Self-motivated, adaptive, and hard working Software Development Engineer in Test (SDET) passionate about building robust, scalable, and reliable automated testing solutions. I thrive on tackling complex problems and delivering impactful results, always eager to learn new technologies and push boundaries.
+Software Development Engineer in Test (SDET) passionate about building robust, scalable, and reliable automated testing solutions. I thrive on tackling complex problems and delivering impactful results, always eager to learn new technologies and push boundaries.
 
 ---
 
