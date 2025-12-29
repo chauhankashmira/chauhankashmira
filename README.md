@@ -1,40 +1,32 @@
 
-#  Hi, I'm Kash Chauhan
+## SDET
 
-**SDET | Automation Enthusiast | Lifelong Learner**
+** Hi, there!!! Kash is here**
 
----
+## MY SKILLS
 
-## About Me
+• **Programming:** JavaScript, TypeScript, Python 
+• **Automation:** Playwright, Selenium, Cypress 
+• **Test Frameworks:** Playwright-MCP, React, Node.js, Cucumber, Gherkins, Pytest
+• **Version Control:** Kubernetes, Git, GitHub, BitBucket
+• **CI/CD:** Jenkins, GitHub Actions, GitLab CI 
+• **Test Management:** Jira, TestRail, Xray
+• **API Testing:** Playwright-MCP, Postman, REST-Assured, Swagger
+• **Databases:** SQL, MySQL, MongoDB
+• **Cloud Platforms:** AWS, S3 bucket, Azure
 
-Software Development Engineer in Test (SDET) passionate about building robust, scalable, and reliable automated testing solutions. I thrive on tackling complex problems and delivering impactful results, always eager to learn new technologies and push boundaries.
 
----
 
-## Top Skills & Technologies
+## PRO-PROJECTS
+•	Use sorting logic for business-rule validation
+•	Check state persistence 
+•	Security-aware navigation testing
+•	API-driven assertions
+•	Prefer visual regression
+•	Use CI/CD
+• Use self-healing locators
+• Don’t rely on visuals for functional tests, but use them to detect CSS regressions early.
+• UI tests consume API data and if API contracts break, UI tests fail for the right reason.
+• Run smoke tests and full regression nightly using tag-based selections.
+• Catch performance regressions early without replacing proper load testing tools.
 
-- **Programming:** JavaScript | TypeScript | Python 
-- **Automation:** Playwright | Selenium | Cypress 
-- **Test Frameworks:** Playwright-MCP | Node.js | Cucumber | Gherkins | Pytest
-- **Version Control:** Kubernetes | Git | GitHub | BitBucket
-- **CI/CD:** Jenkins | GitHub Actions | GitLab CI 
-- **Test Management:** Jira | TestRail | Xray
-- **API Testing:** Playwright-MCP | Postman | REST-Assured | SoapUI | MySQL-MCP
-- **Databases:** SQL | MySQL | MongoDB
-- **Cloud Platforms:** AWS | S3 bucket | Azure
-
----
-
-## Featured Projects
-
-- [**E-Commerce Website End-to-End Testing with Playwright & TypeScript**](https://github.com/chauhankashmira/E-Commerce-Website-End-to-End-Testing-Playwright-TypeScript)
-  - Comprehensive automation suite for a modern e-commerce application.
-  - Leverages Playwright and TypeScript for powerful, scalable testing.
-
-- [**Build LLM Sample Project**](https://github.com/chauhankashmira/Build_LLM_Sample-Project)
-  - Practical implementation of Large Language Models (LLMs).
-  - Showcases integration and testing of AI-driven workflows.
-
-Explore more projects in my [GitHub repositories](https://github.com/chauhankashmira?tab=repositories).
-
----
