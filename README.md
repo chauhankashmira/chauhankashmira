@@ -5,7 +5,7 @@
 
 ## MY SKILLS
 
-• **Programming:** JavaScript, TypeScript, Python 
+• **Programming:** JavaScript, TypeScript, Python <break>
 • **Automation:** Playwright, Selenium, Cypress 
 • **Test Frameworks:** Playwright-MCP, React, Node.js, Cucumber, Gherkins, Pytest
 • **Version Control:** Kubernetes, Git, GitHub, BitBucket
