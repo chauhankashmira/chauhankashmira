@@ -31,13 +31,13 @@
 
 
 ## CERTIFICATIONS
-•	CodeSignal: Revisiting JavaScript Basics 
-•	CodeSignal: Applying Simple Looping in Practice with JavaScript 
-•	LinkedIn:   SAP ERP Essential Training 
-•	LinkedIn:   Project Management 
-•	LinkedIn:   Performance Management 
-•	LinkedIn:   JIRA Service Desk
-•	LinkedIn:   Microsoft Dynamics 365 The Basics
-•	LinkedIn:   Problem-Solving Techniques
-•	LinkedIn:   Icebreakers for Teams
-•	LinkedIn:   System Center Configuration Manager
+-	CodeSignal: Revisiting JavaScript Basics 
+-	CodeSignal: Applying Simple Looping in Practice with JavaScript 
+-	LinkedIn:   SAP ERP Essential Training 
+-	LinkedIn:   Project Management 
+-	LinkedIn:   Performance Management 
+-	LinkedIn:   JIRA Service Desk
+-	LinkedIn:   Microsoft Dynamics 365 The Basics
+-	LinkedIn:   Problem-Solving Techniques
+-	LinkedIn:   Icebreakers for Teams
+- LinkedIn:   System Center Configuration Manager
