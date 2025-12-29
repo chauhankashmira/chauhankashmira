@@ -16,7 +16,6 @@
 - **Cloud Platforms:** AWS, S3 bucket, Azure
 
 
-
 ## PRO-PROJECTS
 -	Use sorting logic for business-rule validation
 -	Check state persistence 
@@ -30,3 +29,15 @@
 - Run smoke tests and full regression nightly using tag-based selections.
 • Catch performance regressions early without replacing proper load testing tools.
 
+
+## CERTIFICATIONS
+•	CodeSignal: Revisiting JavaScript Basics 
+•	CodeSignal: Applying Simple Looping in Practice with JavaScript 
+•	LinkedIn:   SAP ERP Essential Training 
+•	LinkedIn:   Project Management 
+•	LinkedIn:   Performance Management 
+•	LinkedIn:   JIRA Service Desk
+•	LinkedIn:   Microsoft Dynamics 365 The Basics
+•	LinkedIn:   Problem-Solving Techniques
+•	LinkedIn:   Icebreakers for Teams
+•	LinkedIn:   System Center Configuration Manager
