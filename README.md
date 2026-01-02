@@ -1,7 +1,7 @@
 
 ## SDET
 
-** Hi, there!!! Kash is here**
+**Hi, there!!! Kash is here**
 
 ## TECHNICAL SKILLS
 - JavaScript, TypeScript, Python
