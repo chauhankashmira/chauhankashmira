@@ -2,7 +2,7 @@
 ## SDET
 Visit My Website: https://chauhankashmira.github.io/Website/
 
-**Hi, there!!! Kash is here**
+
 
 ## TECHNICAL SKILLS
 - JavaScript, TypeScript, Python
