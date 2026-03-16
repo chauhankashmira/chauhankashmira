@@ -13,6 +13,7 @@ Visit My Website: https://chauhankashmira.github.io/Website/
 - Postman, Swagger
 - SQL, MySQL, MongoDB
 - AWS, S3 bucket, Azure
+- Digital Marketing Analytics
 
 
 ## PROJECTS: SKILLS
