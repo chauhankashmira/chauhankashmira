@@ -13,7 +13,6 @@ Visit My Website: https://chauhankashmira.github.io/Website/
 - Postman, Swagger
 - SQL, MySQL, MongoDB
 - AWS, S3 bucket, Azure
-- Digital Marketing Analytics
 
 
 ## PROJECTS: SKILLS
@@ -28,11 +27,12 @@ Visit My Website: https://chauhankashmira.github.io/Website/
 ## CERTIFICATIONS
 -	CodeSignal: Revisiting JavaScript Basics 
 -	CodeSignal: Applying Simple Looping in Practice with JavaScript 
--	LinkedIn:   SAP ERP Essential Training 
--	LinkedIn:   Project Management 
--	LinkedIn:   Performance Management 
--	LinkedIn:   JIRA Service Desk
--	LinkedIn:   Microsoft Dynamics 365 The Basics
--	LinkedIn:   Problem-Solving Techniques
--	LinkedIn:   Icebreakers for Teams
-- LinkedIn:   System Center Configuration Manager
+-	SAP ERP Essential Training 
+-	Project Management 
+-	Performance Management 
+-	JIRA Service Desk
+-	Microsoft Dynamics 365 The Basics
+-	Problem-Solving Techniques
+-	Icebreakers for Teams
+- System Center Configuration Manager
+- Digital Marketing for Business
