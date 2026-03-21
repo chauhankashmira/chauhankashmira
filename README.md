@@ -24,6 +24,15 @@ Visit My Website: https://chauhankashmira.github.io/Website/
 -	Visual testing
 - Self-healing locators
 
+## TESTING METHODOLOGIES:
+- End-to-End
+- Data-driven
+- API
+- Regression
+-	Functional
+-	Non-functional
+- Release testing
+
 ## CERTIFICATIONS
 -	CodeSignal: Revisiting JavaScript Basics 
 -	CodeSignal: Applying Simple Looping in Practice with JavaScript 
