@@ -3,26 +3,16 @@
 Visit My Website: https://chauhankashmira.github.io/Website/
 
 
-
 ## TECHNICAL SKILLS
 - JavaScript, TypeScript, Python
 - Playwright, Selenium, Cypress 
-- Playwright-MCP, React, Node.js, Cucumber, Gherkins, Pytest
+- Node.js, Cucumber, Gherkins, Pytest
 - Jenkins, GitHub Actions, BitBucket 
 - Jira, TestRail, Xray
 - Postman, Swagger
 - SQL, MySQL, MongoDB
 - AWS, S3 bucket, Azure
 
-
-## PROJECTS: SKILLS
-- CI/CD integration
-- Frameworks from scratch
-- Sliding window
-- Binary search
--	Assertions
--	Visual testing
-- Self-healing locators
 
 ## TESTING METHODOLOGIES:
 - End-to-End
